@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.env.local
+
+# Database / vector stores
+chroma_langchain_db/
+temp_data/
+indexer_ckpt/
+
+# IDE folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
